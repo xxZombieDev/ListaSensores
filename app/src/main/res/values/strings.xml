@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListaSensores</string>
+    <string name="action_settings">Settings</string>
+    <string name="textoAyuda">El listado que aparece es una lista de los sensores con los cuales cuenta su dispositivo movil</string>
+</resources>
